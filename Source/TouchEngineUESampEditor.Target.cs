@@ -8,7 +8,7 @@ public class TouchEngineUESampEditorTarget : TargetRules
 	public TouchEngineUESampEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V2;
+		DefaultBuildSettings = BuildSettingsVersion.V5;
         ExtraModuleNames.Add("TouchEngineUESamp");
 
         // ~ IncludeOrderVersion ~
