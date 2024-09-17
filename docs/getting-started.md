@@ -24,7 +24,7 @@ There is two ways you can get started compiling the latest source files, using a
 
 You can execute a .bat file with the following script
 ```
-call "[UE Install Location]\Engine\Build\BatchFiles\RunUAT.bat" BuildPlugin -Plugin=[Example Project Install Location]\Plugins\TouchEngine\TouchEngine.uplugin -Package=[Build Destination Location]\TouchEnigne -Rocket
+call "[UE Install Location]\Engine\Build\BatchFiles\RunUAT.bat" BuildPlugin -Plugin=[Example Project Install Location]\Plugins\TouchEngine\TouchEngine.uplugin -Package=[Build Destination Location]\TouchEngine -Rocket
 ```
 
 Where
